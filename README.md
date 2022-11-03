@@ -16,6 +16,8 @@ https://medium.com/@zxr.nju/what-is-the-kernel-trick-why-is-it-important-98a98db
 
 더욱 자세한 설명은 [Notebook](https://github.com/yunkio/SVM_tutorial/blob/main/Tutorial.ipynb)을 참고 해주세요.
 
+* 사용된 데이터 출처 : https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data*
+
 ![image](https://user-images.githubusercontent.com/35906602/199675574-a71deb42-b68b-4d38-a973-11e2e81c8e88.png)
 
 ![image](https://user-images.githubusercontent.com/35906602/199676223-6cd04c5f-e058-4d98-beb6-3bd3202a19a4.png)
